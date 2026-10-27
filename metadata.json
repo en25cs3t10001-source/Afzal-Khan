@@ -1,0 +1,6 @@
+{
+  "name": "StaffSync - HR Management System",
+  "description": "Modern, responsive MERN-stack Human Resource Management System with role-based access control for HR, Managers, and Employees covering attendance, leaves, announcements, and training.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
